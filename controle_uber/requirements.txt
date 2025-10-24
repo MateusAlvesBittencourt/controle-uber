@@ -1,0 +1,15 @@
+# Controle Uber - Dependências Python
+
+# Tkinter geralmente vem com Python, mas se precisar instalar:
+# tkinter (no Windows, pode ser necessário instalar via pip ou conda)
+
+# Outras dependências padrão do Python:
+# sqlite3 (incluído no Python)
+# datetime (incluído)
+# calendar (incluído)
+# csv (incluído)
+
+# Se usar Python < 3.8, pode precisar de:
+# importlib (para relative imports, incluído em 3.1+)
+
+# Nenhuma dependência externa necessária - tudo é padrão do Python!
